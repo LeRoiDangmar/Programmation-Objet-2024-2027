@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "604SGYXS8sgNWp4n/JG015vkY1is9svqSlHnywYOzx7ahJpC/KFamvSiSDwEazfo9ovH3t0zK7xMfuuj+/mW/Q==",
+  "success": true,
+  "projectFilePath": "/home/Jules/COURS/2024|2025/Developpement/TP001/TP001.csproj",
+  "expectedPackageFiles": [
+    "/home/Jules/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

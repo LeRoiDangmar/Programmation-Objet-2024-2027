@@ -1,0 +1,15 @@
+/home/Jules/COURS/2024|2025/Developpement/TP001/bin/Debug/net8.0/TP001
+/home/Jules/COURS/2024|2025/Developpement/TP001/bin/Debug/net8.0/TP001.deps.json
+/home/Jules/COURS/2024|2025/Developpement/TP001/bin/Debug/net8.0/TP001.runtimeconfig.json
+/home/Jules/COURS/2024|2025/Developpement/TP001/bin/Debug/net8.0/TP001.dll
+/home/Jules/COURS/2024|2025/Developpement/TP001/bin/Debug/net8.0/TP001.pdb
+/home/Jules/COURS/2024|2025/Developpement/TP001/obj/Debug/net8.0/TP001.GeneratedMSBuildEditorConfig.editorconfig
+/home/Jules/COURS/2024|2025/Developpement/TP001/obj/Debug/net8.0/TP001.AssemblyInfoInputs.cache
+/home/Jules/COURS/2024|2025/Developpement/TP001/obj/Debug/net8.0/TP001.AssemblyInfo.cs
+/home/Jules/COURS/2024|2025/Developpement/TP001/obj/Debug/net8.0/TP001.csproj.CoreCompileInputs.cache
+/home/Jules/COURS/2024|2025/Developpement/TP001/obj/Debug/net8.0/TP001.sourcelink.json
+/home/Jules/COURS/2024|2025/Developpement/TP001/obj/Debug/net8.0/TP001.dll
+/home/Jules/COURS/2024|2025/Developpement/TP001/obj/Debug/net8.0/refint/TP001.dll
+/home/Jules/COURS/2024|2025/Developpement/TP001/obj/Debug/net8.0/TP001.pdb
+/home/Jules/COURS/2024|2025/Developpement/TP001/obj/Debug/net8.0/TP001.genruntimeconfig.cache
+/home/Jules/COURS/2024|2025/Developpement/TP001/obj/Debug/net8.0/ref/TP001.dll
